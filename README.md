@@ -2,7 +2,7 @@
 
 # Ultimate Casino Script
 
-![Casino Preview](./preview.png)
+![Casino Preview](./IMG-20250519-WA0007.jpg)
 
 Welcome to the **Ultimate Casino Script** – a powerful, ready-to-deploy online casino platform featuring **10 exciting games** and **live casino support** via the **GoldVest API**.
 
@@ -33,7 +33,7 @@ To get started:
 
 ## Demo Image
 
-![Preview Screenshot](./preview.png)
+![Preview Screenshot](./IMG-20250519-WA0007.jpg)
 
 ## Price
 
@@ -48,7 +48,7 @@ To get started:
 
 To purchase or request a demo, please contact me directly telegram.
 
-t.me/Proficientng
+https://t.me/Proficientng
 ---
 
 **Enjoy running your own online casino with ease and flexibility!**
